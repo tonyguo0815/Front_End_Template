@@ -1,0 +1,23 @@
+{
+  "name": "front-end",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 5050"
+  },
+  "dependencies": {
+    "@coreui/coreui": "^4.1.3",
+    "@coreui/icons": "^2.1.0",
+    "@coreui/icons-vue": "^2.0.0",
+    "@coreui/vue": "^4.3.0",
+    "sass": "^1.51.0",
+    "vue": "^3.2.33",
+    "vue-router": "^4.0.14",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.1",
+    "vite": "^2.9.5"
+  }
+}
